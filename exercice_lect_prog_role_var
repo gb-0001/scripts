@@ -1,0 +1,8 @@
+Décider si ces deux programmes sont équivalents ; si oui, expliquer pourquoi. Si non, trouver des valeurs des variables pour lesquelles les deux programmes ne donnent pas le même résultat.
+
+OUI (Pour les 3 entrées dont la 1ère =3, la 2ème = 2 le 3ème =1 pour le programme A et B)
+Les 2 programmes sont equivalents car si le premier nombre saisie est a=3 le 2eme est b=2 et le 3eme est c=1 alors s=6 sur le programmeA
+et sur le programmeB si le
+- 1er nombre est a=3 mais stocké dans s=a
+- le 2eme nombre a est réinitialisé et passe à a=2 car réutilisé s= alors à 3 + 2 donc 5
+- pour le 3eme nombre a est réinitialisé et passe à 1 s= alors à 5 + 1 donc s=6
